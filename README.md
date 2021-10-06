@@ -1,2 +1,2 @@
 # A-Simple-Calculator
-Hello guys, I'm a begginner onprogramming and I decided to make a simple calculator using Python 2
+Hello guys, I just made a simple calculator using Python 2!!
